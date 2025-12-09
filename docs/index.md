@@ -39,8 +39,8 @@ Pressing the red dots will show the stop number and how many feet the stop is fr
     
 >[!NOTE]
 >Location accuracy may depend on wifi connection or cellular data
-    
-  ### Plan a Trip
+
+### Plan a Trip
 ---
 
 <div style="text-align: center;"><img  src="https://hackmd.io/_uploads/SkhcYvrCgl.jpg"style="border: 2px solid black;"
