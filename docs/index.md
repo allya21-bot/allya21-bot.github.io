@@ -8,6 +8,10 @@
 
 ### Overview
 Getting around campus and the surrounding community can be confusing with the Blacksburg Transit Bus System. That's why our guide, designed with students in mind, offers a convenient, reliable, and step-by-step way to travel between residence halls, classrooms, and key off-campus destinations. In our guide, we will cover how to plan a trip, how to see routes, and additional details found on the website. 
+
+ <img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_4075eb361920e86d8ca0b2a1a989f13b.jpeg?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765315253&Signature=ov54%2BMPr2Ep4TDNbufEJQElrRfo%3D" alt="bus">
+
+
 ## Using the App
  The Blacksburg Transit app is available for download in the App store (iOS) and Google Play store (Android). The app is best to use if you are out and about and need a quick way to check the map, arrival times, etc. Because of the app's mobile usage, your location could impact the reach of internet services, and the app must connect to wifi or cellular data to work properly. 
  
@@ -15,7 +19,7 @@ Getting around campus and the surrounding community can be confusing with the Bl
 ### Using the Map Feature
 Open the app. You will see this page upon opening:
 
-<img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_7472cf84bd6d8594f6a8a5b2661d75a3.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765312783&Signature=W92ZfoWPkXZm%2B1o1%2FnK146ulmvM%3D" alt="bus" width="400" height="1200">
+<img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_7472cf84bd6d8594f6a8a5b2661d75a3.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765315003&Signature=8BpVhimeng4VobTNaAmjpUc6fNY%3D alt="bus" width="400" height="1200">
 
 
 
