@@ -3,9 +3,6 @@
 
 
 
-<style>
-.maroon {color: maroon;}
-</style>
 
   <img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_61d77afb5f5896889de23749935d81b1.jpg?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765312378&Signature=dIlO%2FJzQ7KC7EVrgxCOcHdLFyt4%3D" alt="bus">
 
