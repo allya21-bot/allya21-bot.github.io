@@ -153,7 +153,9 @@ Use two fingers on the map and slide them outward to zoom into the map. Find the
 The image below shows an example of the PRG bus route. Not all routes look like the image below.  
 
 <div style="text-align: center;"><img  src="https://hackmd.io/_uploads/ByTeij00eg.jpg"style="border: 2px solid black;" alt=[Example of PRG bus route on map] width=400></div>
+
  ## Using the Website
+
 The [Blacksburg Transit website](https://ridebt.org/) provides users with information of routes and schedules of Blacksburg and the surrounding area, including downloadable maps and service calendars. The website also  explains the service levels (Full Service during most of the academic year, Reduced Service during breaks), with hours of operation and holiday closures. All of the aforementioned information is available on the app, but the website interface holds more, robust information. 
 
 
@@ -171,7 +173,8 @@ The [Blacksburg Transit website](https://ridebt.org/) provides users with inform
   This button is located on the maroon bar on the home page of the website (see red arrow in the picture below).
   
 
-<div style="text-align: center;"><img src="https://hackmd.io/_uploads/BkJ_BcSTxe.png" style="border: 2px solid black;"alt="The home page of the Blacksburg Transit website with a red arrow pointing to the Plan a Trip button on the maroon menu bar."></div>
+
+<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/site/img/websiteplantrip.png" alt="The home page of the Blacksburg Transit website with a red arrow pointing to the Plan a Trip button on the maroon menu bar.">
 
   
   #### Step 2: Select your starting location
