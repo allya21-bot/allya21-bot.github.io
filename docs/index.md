@@ -191,8 +191,7 @@ The [Blacksburg Transit website](https://ridebt.org/) provides users with inform
 #### Step 3: Select your end location
 Type your end location in the **To text box** (green arrow) and select a bus stop from the list that appears, or select your current location by clicking the **current location** button (red arrow in the picture below).
 
-<div style="text-align: center;"><img src="https://hackmd.io/_uploads/B12U9PrRlg.png" style="border: 2px solid black;"alt="The trip planner page on the Blacksburg Transit website with a green arrow pointing to the end location text box and a red arrow pointing to the button to select current location."></div>
-
+<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/site/img/websiteendloc.png" alt="The trip planner page on the Blacksburg Transit website with a green arrow pointing to the end location text box and a red arrow pointing to the button to select current location.">
 
 #### Step 4: Find your trip!
 Select the **Find Trips** button and choose the route best for you!
