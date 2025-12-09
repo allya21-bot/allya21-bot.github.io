@@ -39,8 +39,7 @@ Pressing the red dots will show the stop number and how many feet the stop is fr
 ### Plan a Trip
 ---
 
-<div style="text-align: center;"><img  src="https://hackmd.io/_uploads/SkhcYvrCgl.jpg"style="border: 2px solid black;"
-alt=[Page in app, shows box to insert locations—starting point and destination—when user would like to leave, and priority route.] width=400></div>
+<img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_e10c9254998400977f376ddc25cf6238.jpg?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765315741&Signature=i7IB8ER3G0r%2BfKvfl4q4%2Fbzmymw%3D" alt="little guys" width="400">
 
  
 #### Step 1: Find a stop near you
