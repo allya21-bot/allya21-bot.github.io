@@ -26,7 +26,7 @@ Open the app. You will see this page upon opening:
 
  On the "Map" page, click the person icon on the bottom right of the screen, as shown below. 
 
-<div style="text-align: center;"><img src="https://hackmd.io/_uploads/BkDQ9DH0gl.jpg"style="border: 2px solid black;", alt="Person icon featured in app." width=400></div>
+<img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_e10c9254998400977f376ddc25cf6238.jpg?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765315741&Signature=i7IB8ER3G0r%2BfKvfl4q4%2Fbzmymw%3D" alt="little guys" width="400">
 
 <div style="text-align: center;"><img  src="https://hackmd.io/_uploads/B111-fuAex.png"style="border: 2px solid black;" alt=[Home screen of Blacksburg Transit App. ] alt=[Same map as home screen of Blacksburg Transit app, but includes red dots that indicate stops closest to your location.] width=400></div>
 
