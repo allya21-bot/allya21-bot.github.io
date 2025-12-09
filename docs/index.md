@@ -26,10 +26,8 @@ Open the app. You will see this page upon opening:
 
  On the "Map" page, click the person icon on the bottom right of the screen, as shown below. 
 
-<div style="text-align: center;"><img src="https://hackmd.io/_uploads/BkDQ9DH0gl.jpg"style="border: 2px solid black;", alt="Person icon featured in app." width=400></div>
 
-<div style="text-align: center;"><img  src="https://hackmd.io/_uploads/B111-fuAex.png"style="border: 2px solid black;" alt=[Home screen of Blacksburg Transit App. ] alt=[Same map as home screen of Blacksburg Transit app, but includes red dots that indicate stops closest to your location.] width=400></div>
-
+<img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_e10c9254998400977f376ddc25cf6238.jpg?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765316957&Signature=aJR7%2BEJu3beOn7k7pH%2Bzf9%2BZKgE%3D" alt="bus" width="500" height="1200">
 
 Pressing the person icon will show red dots on the map as shown above, these red dots are the stops nearest to your location. 
 
@@ -42,11 +40,11 @@ Pressing the red dots will show the stop number and how many feet the stop is fr
 ### Plan a Trip
 ---
 
-<div style="text-align: center;"><img  src="https://hackmd.io/_uploads/SkhcYvrCgl.jpg"style="border: 2px solid black;"
-alt=[Page in app, shows box to insert locations—starting point and destination—when user would like to leave, and priority route.] width=400></div>
+<img  src="https://hackmd.io/_uploads/SkhcYvrCgl.jpg"style="border: 2px solid black;"
+alt=[Page in app, shows box to insert locations—starting point and destination—when user would like to leave, and priority route.] width=400>
 
  
-  #### Step 1: Find a stop near you
+#### Step 1: Find a stop near you
     
   Two options are available to find a stop that is closest to your location. 
   
@@ -64,7 +62,7 @@ Pressing the three black dots will bring up a list of all of the stops. You can 
 >[!NOTE]
 >Location services will need to be turned on and the BT App must have access to your location.
 
-  #### Step 2: Finding your destination
+#### Step 2: Finding your destination
   
   Next, you will need to plug in your destination where it says **Your destination.**
   
@@ -121,7 +119,7 @@ Only use this instruction set if you know which bus you want to use. If you do n
   #### Step 1: Locate the "Routes" icon
 In the maroon bar at the bottom of the screen, locate and press the sign with an arrow icon labeled **Routes**.
 
-<div style="text-align: center;"><img  src="https://hackmd.io/_uploads/Bkj9N5rTxg.png"style="border: 2px solid black;" alt=[list of bus route options, clicking on a bus route leads to bus schedules] width=400></div>
+<img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_c911d3354120c81594bd0f0c7775efe2.PNG?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765316694&Signature=asqm6AyMOO8u7ojtBQD1ZuKE2S0%3D" alt="routes and schedules">
 
 
 ---
