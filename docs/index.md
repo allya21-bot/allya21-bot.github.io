@@ -15,8 +15,8 @@ Getting around campus and the surrounding community can be confusing with the Bl
  The Blacksburg Transit app is available for download in the App store (iOS) and Google Play store (Android). The app is best to use if you are out and about and need a quick way to check the map, arrival times, etc. Because of the app's mobile usage, your location could impact the reach of internet services, and the app must connect to wifi or cellular data to work properly. 
  
  ---
- ### Using the Map Feature
- Open the app. You will see this page upon opening:
+### Using the Map Feature
+Open the app. You will see this page upon opening:
 <div style="text-align: center;"><img  src="https://hackmd.io/_uploads/r1R0xMOCel.png" style="border: 2px solid black;"alt=[Home screen of Blacksburg Transit App. ] width=400></div>
 
 
