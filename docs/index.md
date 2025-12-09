@@ -14,7 +14,8 @@ Getting around campus and the surrounding community can be confusing with the Bl
  ---
 ### Using the Map Feature
 Open the app. You will see this page upon opening:
-<div style="text-align: center;"><img  src="https://hackmd.io/_uploads/r1R0xMOCel.png" style="border: 2px solid black;"alt=[Home screen of Blacksburg Transit App. ] width=400></div>
+
+<img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_7472cf84bd6d8594f6a8a5b2661d75a3.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765312783&Signature=W92ZfoWPkXZm%2B1o1%2FnK146ulmvM%3D" alt="bus" width="400" height="1200">
 
 
 
