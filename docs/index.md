@@ -28,9 +28,6 @@ Open the app. You will see this page upon opening:
 
 <img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_e10c9254998400977f376ddc25cf6238.jpg?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765315741&Signature=i7IB8ER3G0r%2BfKvfl4q4%2Fbzmymw%3D" alt="little guys" width="400">
 
-<div style="text-align: center;"><img  src="https://hackmd.io/_uploads/B111-fuAex.png"style="border: 2px solid black;" alt=[Home screen of Blacksburg Transit App. ] alt=[Same map as home screen of Blacksburg Transit app, but includes red dots that indicate stops closest to your location.] width=400></div>
-
-
 Pressing the person icon will show red dots on the map as shown above, these red dots are the stops nearest to your location. 
 
 Pressing the red dots will show the stop number and how many feet the stop is from your current location.
@@ -46,7 +43,7 @@ Pressing the red dots will show the stop number and how many feet the stop is fr
 alt=[Page in app, shows box to insert locations—starting point and destination—when user would like to leave, and priority route.] width=400></div>
 
  
-  #### Step 1: Find a stop near you
+#### Step 1: Find a stop near you
     
   Two options are available to find a stop that is closest to your location. 
   
