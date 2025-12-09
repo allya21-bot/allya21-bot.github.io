@@ -26,7 +26,10 @@ Open the app. You will see this page upon opening:
 
  On the "Map" page, click the person icon on the bottom right of the screen, as shown below. 
 
-<img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_e10c9254998400977f376ddc25cf6238.jpg?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765315741&Signature=i7IB8ER3G0r%2BfKvfl4q4%2Fbzmymw%3D" alt="little guys" width="400">
+<div style="text-align: center;"><img src="https://hackmd.io/_uploads/BkDQ9DH0gl.jpg"style="border: 2px solid black;", alt="Person icon featured in app." width=400></div>
+
+<div style="text-align: center;"><img  src="https://hackmd.io/_uploads/B111-fuAex.png"style="border: 2px solid black;" alt=[Home screen of Blacksburg Transit App. ] alt=[Same map as home screen of Blacksburg Transit app, but includes red dots that indicate stops closest to your location.] width=400></div>
+
 
 Pressing the person icon will show red dots on the map as shown above, these red dots are the stops nearest to your location. 
 
@@ -39,10 +42,11 @@ Pressing the red dots will show the stop number and how many feet the stop is fr
 ### Plan a Trip
 ---
 
-<img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_a22d9c2980977678ab72153ee80121d4.jpg?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765316179&Signature=Xt85s2l9amxxdicw9mGGVMAOKwo%3D" alt="plan a trip" width="400">
+<div style="text-align: center;"><img  src="https://hackmd.io/_uploads/SkhcYvrCgl.jpg"style="border: 2px solid black;"
+alt=[Page in app, shows box to insert locations—starting point and destination—when user would like to leave, and priority route.] width=400></div>
 
  
-#### Step 1: Find a stop near you
+  #### Step 1: Find a stop near you
     
   Two options are available to find a stop that is closest to your location. 
   
@@ -176,14 +180,13 @@ The [Blacksburg Transit website](https://ridebt.org/) provides users with inform
   #### Step 2: Select your starting location
   Type your starting location in the **From text box** (green arrow in the picture below) and select a bus stop from the list that appears, or select your current location by clicking the **current location** button (red arrow in the picture below). 
   
-  <img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/site/img/websiteplantrip.png" alt="The trip planner page on the Blacksburg transit website with a green arrow pointing to the starting location text box and a red arrow pointing to the button to select current location.">
+  <img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/site/img/websitestartloc.png" alt="The trip planner page on the Blacksburg transit website with a green arrow pointing to the starting location text box and a red arrow pointing to the button to select current location.">
 
 >[!NOTE]
 >You may want to look at the map on the home page to find the names of bus stops near you / near your end location. Stops appear as blue bus icons (example shown below). Some stops are labeled with their names which you can then type into the start/end location text boxes in the Trip Planner.
 
 
-<div style="text-align: center;"><img src="https://hackmd.io/_uploads/HJMh_j0Axe.png" style="border: 2px solid black;"alt="An example of a bus stop on the Blacksburg Transit interactive map."></div>
-
+<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/site/img/cassellstop.png" alt="An example of a bus stop on the Blacksburg Transit interactive map.">
 
 #### Step 3: Select your end location
 Type your end location in the **To text box** (green arrow) and select a bus stop from the list that appears, or select your current location by clicking the **current location** button (red arrow in the picture below).
