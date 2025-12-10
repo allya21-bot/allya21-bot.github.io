@@ -3,34 +3,34 @@
 
 
 
-<style>
-.maroon {color: maroon;}
-</style>
 
 <img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_61d77afb5f5896889de23749935d81b1.jpg?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765312378&Signature=dIlO%2FJzQ7KC7EVrgxCOcHdLFyt4%3D" alt="Bus" style="width:auto;"> </picture>
+  <img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/site/img/upload_61d77afb5f5896889de23749935d81b1.jpg?raw=true" alt="bus">
 
   
 ### Overview
 Getting around campus and the surrounding community can be confusing with the Blacksburg Transit Bus System. That's why our guide, designed with students in mind, offers a convenient, reliable, and step-by-step way to travel between residence halls, classrooms, and key off-campus destinations. In our guide, we will cover how to plan a trip, how to see routes, and additional details found on the website. 
 
 ## Using the App 
+ <img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_4075eb361920e86d8ca0b2a1a989f13b.jpeg?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765315253&Signature=ov54%2BMPr2Ep4TDNbufEJQElrRfo%3D" alt="bus">
+
+
+## Using the App
  The Blacksburg Transit app is available for download in the App store (iOS) and Google Play store (Android). The app is best to use if you are out and about and need a quick way to check the map, arrival times, etc. Because of the app's mobile usage, your location could impact the reach of internet services, and the app must connect to wifi or cellular data to work properly. 
  
  ---
- ### Using the Map Feature
- Open the app. You will see this page upon opening:
-<div style="text-align: center;"><img  src="https://hackmd.io/_uploads/r1R0xMOCel.png" style="border: 2px solid black;"alt=[Home screen of Blacksburg Transit App. ] width=400></div>
+### Using the Map Feature
+Open the app. You will see this page upon opening:
 
 
+ <img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_7472cf84bd6d8594f6a8a5b2661d75a3.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765315373&Signature=hnzB6s2kpbn2OSvNGjO%2FxRCPuII%3D" alt="bus" width="500" height="1200">
 
 
 
  On the "Map" page, click the person icon on the bottom right of the screen, as shown below. 
 
-<div style="text-align: center;"><img src="https://hackmd.io/_uploads/BkDQ9DH0gl.jpg"style="border: 2px solid black;", alt="Person icon featured in app." width=400></div>
 
-<div style="text-align: center;"><img  src="https://hackmd.io/_uploads/B111-fuAex.png"style="border: 2px solid black;" alt=[Home screen of Blacksburg Transit App. ] alt=[Same map as home screen of Blacksburg Transit app, but includes red dots that indicate stops closest to your location.] width=400></div>
-
+<img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_e10c9254998400977f376ddc25cf6238.jpg?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765316957&Signature=aJR7%2BEJu3beOn7k7pH%2Bzf9%2BZKgE%3D" alt="bus" width="500" height="1200">
 
 Pressing the person icon will show red dots on the map as shown above, these red dots are the stops nearest to your location. 
 
@@ -39,15 +39,15 @@ Pressing the red dots will show the stop number and how many feet the stop is fr
     
 >[!NOTE]
 >Location accuracy may depend on wifi connection or cellular data
-    
-  ### Plan a Trip
+
+### Plan a Trip
 ---
 
-<div style="text-align: center;"><img  src="https://hackmd.io/_uploads/SkhcYvrCgl.jpg"style="border: 2px solid black;"
-alt=[Page in app, shows box to insert locations—starting point and destination—when user would like to leave, and priority route.] width=400></div>
+<img  src="https://hackmd.io/_uploads/SkhcYvrCgl.jpg"style="border: 2px solid black;"
+alt=[Page in app, shows box to insert locations—starting point and destination—when user would like to leave, and priority route.] width=400>
 
  
-  #### Step 1: Find a stop near you
+#### Step 1: Find a stop near you
     
   Two options are available to find a stop that is closest to your location. 
   
@@ -65,7 +65,7 @@ Pressing the three black dots will bring up a list of all of the stops. You can 
 >[!NOTE]
 >Location services will need to be turned on and the BT App must have access to your location.
 
-  #### Step 2: Finding your destination
+#### Step 2: Finding your destination
   
   Next, you will need to plug in your destination where it says **Your destination.**
   
@@ -122,7 +122,7 @@ Only use this instruction set if you know which bus you want to use. If you do n
   #### Step 1: Locate the "Routes" icon
 In the maroon bar at the bottom of the screen, locate and press the sign with an arrow icon labeled **Routes**.
 
-<div style="text-align: center;"><img  src="https://hackmd.io/_uploads/Bkj9N5rTxg.png"style="border: 2px solid black;" alt=[list of bus route options, clicking on a bus route leads to bus schedules] width=400></div>
+<img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_c911d3354120c81594bd0f0c7775efe2.PNG?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765316694&Signature=asqm6AyMOO8u7ojtBQD1ZuKE2S0%3D" alt="routes and schedules">
 
 
 ---
@@ -154,7 +154,9 @@ Use two fingers on the map and slide them outward to zoom into the map. Find the
 The image below shows an example of the PRG bus route. Not all routes look like the image below.  
 
 <div style="text-align: center;"><img  src="https://hackmd.io/_uploads/ByTeij00eg.jpg"style="border: 2px solid black;" alt=[Example of PRG bus route on map] width=400></div>
+
  ## Using the Website
+
 The [Blacksburg Transit website](https://ridebt.org/) provides users with information of routes and schedules of Blacksburg and the surrounding area, including downloadable maps and service calendars. The website also  explains the service levels (Full Service during most of the academic year, Reduced Service during breaks), with hours of operation and holiday closures. All of the aforementioned information is available on the app, but the website interface holds more, robust information. 
 
 
@@ -172,26 +174,25 @@ The [Blacksburg Transit website](https://ridebt.org/) provides users with inform
   This button is located on the maroon bar on the home page of the website (see red arrow in the picture below).
   
 
-<div style="text-align: center;"><img src="https://hackmd.io/_uploads/BkJ_BcSTxe.png" style="border: 2px solid black;"alt="The home page of the Blacksburg Transit website with a red arrow pointing to the Plan a Trip button on the maroon menu bar."></div>
+
+<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/site/img/websiteplantrip.png" alt="The home page of the Blacksburg Transit website with a red arrow pointing to the Plan a Trip button on the maroon menu bar.">
 
   
   #### Step 2: Select your starting location
   Type your starting location in the **From text box** (green arrow in the picture below) and select a bus stop from the list that appears, or select your current location by clicking the **current location** button (red arrow in the picture below). 
   
-  <div style="text-align: center;"><img src="https://hackmd.io/_uploads/rJB1P9Spxe.png" style="border: 2px solid black;"alt="The trip planner page on the Blacksburg transit website with a green arrow pointing to the starting location text box and a red arrow pointing to the button to select current location."></div>
+  <img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/site/img/websitestartloc.png" alt="The trip planner page on the Blacksburg transit website with a green arrow pointing to the starting location text box and a red arrow pointing to the button to select current location.">
 
 >[!NOTE]
 >You may want to look at the map on the home page to find the names of bus stops near you / near your end location. Stops appear as blue bus icons (example shown below). Some stops are labeled with their names which you can then type into the start/end location text boxes in the Trip Planner.
 
 
-<div style="text-align: center;"><img src="https://hackmd.io/_uploads/HJMh_j0Axe.png" style="border: 2px solid black;"alt="An example of a bus stop on the Blacksburg Transit interactive map."></div>
-
+<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/site/img/cassellstop.png" alt="An example of a bus stop on the Blacksburg Transit interactive map.">
 
 #### Step 3: Select your end location
 Type your end location in the **To text box** (green arrow) and select a bus stop from the list that appears, or select your current location by clicking the **current location** button (red arrow in the picture below).
 
-<div style="text-align: center;"><img src="https://hackmd.io/_uploads/B12U9PrRlg.png" style="border: 2px solid black;"alt="The trip planner page on the Blacksburg Transit website with a green arrow pointing to the end location text box and a red arrow pointing to the button to select current location."></div>
-
+<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/site/img/websiteendloc.png" alt="The trip planner page on the Blacksburg Transit website with a green arrow pointing to the end location text box and a red arrow pointing to the button to select current location.">
 
 #### Step 4: Find your trip!
 Select the **Find Trips** button and choose the route best for you!
