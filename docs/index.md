@@ -28,7 +28,7 @@ Open the app. You will see this page upon opening:
  On the "Map" page, click the person icon on the bottom right of the screen, as shown below. 
 
 
- <img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/littleperson.jpg?raw=true" alt="guy" width="500" height="1200">
+ <img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/littleperson.jpg?raw=true" alt="guy" width="500" height="500">
 
 Pressing the person icon will show red dots on the map as shown above, these red dots are the stops nearest to your location. 
 
