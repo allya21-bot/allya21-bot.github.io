@@ -4,7 +4,7 @@
 
 
 
-<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/site/img/upload_61d77afb5f5896889de23749935d81b1.jpg?raw=true" alt="bus">
+<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/upload_61d77afb5f5896889de23749935d81b1.jpg?raw=true" alt="bus">
 
   
 ### Overview
