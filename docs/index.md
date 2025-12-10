@@ -10,7 +10,7 @@
 ### Overview
 Getting around campus and the surrounding community can be confusing with the Blacksburg Transit Bus System. That's why our guide, designed with students in mind, offers a convenient, reliable, and step-by-step way to travel between residence halls, classrooms, and key off-campus destinations. In our guide, we will cover how to plan a trip, how to see routes, and additional details found on the website. 
 
- <img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_4075eb361920e86d8ca0b2a1a989f13b.jpeg?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765315253&Signature=ov54%2BMPr2Ep4TDNbufEJQElrRfo%3D" alt="bus"> 
+ <img src="https://idkwhat.png" alt="bus"> 
 
 
 ## Using the App
