@@ -110,14 +110,14 @@ You can also switch your starting point and your destination by pressing the shu
 
   ----
   
-  ### Routes and Schedules
+### Routes and Schedules
   
   >[!NOTE]
 Only use this instruction set if you know which bus you want to use. If you do not know the stops near you or which bus to take, refer to the **Plan a Trip** instruction set above. 
   
   ---
   
-  #### Step 1: Locate the "Routes" icon
+#### Step 1: Locate the "Routes" icon
 In the maroon bar at the bottom of the screen, locate and press the sign with an arrow icon labeled **Routes**.
 
 <img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_c911d3354120c81594bd0f0c7775efe2.PNG?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765316694&Signature=asqm6AyMOO8u7ojtBQD1ZuKE2S0%3D" alt="routes and schedules">
@@ -153,14 +153,14 @@ The image below shows an example of the PRG bus route. Not all routes look like 
 
 <div style="text-align: center;"><img  src="https://hackmd.io/_uploads/ByTeij00eg.jpg"style="border: 2px solid black;" alt=[Example of PRG bus route on map] width=400></div>
 
- ## Using the Website
+## Using the Website
 
 The [Blacksburg Transit website](https://ridebt.org/) provides users with information of routes and schedules of Blacksburg and the surrounding area, including downloadable maps and service calendars. The website also  explains the service levels (Full Service during most of the academic year, Reduced Service during breaks), with hours of operation and holiday closures. All of the aforementioned information is available on the app, but the website interface holds more, robust information. 
 
 
   
   
-  ### Plan a Trip
+### Plan a Trip
   
 
 ---
@@ -168,7 +168,7 @@ The [Blacksburg Transit website](https://ridebt.org/) provides users with inform
 
 
   
-  #### Step 1: Select "Plan a Trip"
+#### Step 1: Select "Plan a Trip"
   This button is located on the maroon bar on the home page of the website (see red arrow in the picture below).
   
 
@@ -176,7 +176,7 @@ The [Blacksburg Transit website](https://ridebt.org/) provides users with inform
 <img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/site/img/websiteplantrip.png" alt="The home page of the Blacksburg Transit website with a red arrow pointing to the Plan a Trip button on the maroon menu bar.">
 
   
-  #### Step 2: Select your starting location
+#### Step 2: Select your starting location
   Type your starting location in the **From text box** (green arrow in the picture below) and select a bus stop from the list that appears, or select your current location by clicking the **current location** button (red arrow in the picture below). 
   
   <img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/site/img/websitestartloc.png" alt="The trip planner page on the Blacksburg transit website with a green arrow pointing to the starting location text box and a red arrow pointing to the button to select current location.">
@@ -206,49 +206,49 @@ Select the **Find Trips** button and choose the route best for you!
  
  
  
-  ### Routes and Schedules
+### Routes and Schedules
   
 
 ---
 
   
-  #### Step 1: Locate the "Routes and Schedules" button
+#### Step 1: Locate the "Routes and Schedules" button
   The button is located on the maroon bar on the home page of the BT website (see red arrow in the picture below).
   
 
  <div style="text-align: center;"><img src="https://hackmd.io/_uploads/B1TQaPrRxg.png" style="border: 2px solid black;"alt="The home page of the Blacksburg Transit website with a red arrow pointing to the "Routes and Schedules" button on the maroon menu bar."></div>
 
  
- #### Step 2: Select which routes and schedules you want
+#### Step 2: Select which routes and schedules you want
  Hover your cursor over the **Routes and Schedules** button and choose your area of interest from the menu that appears.
  
  
  
   <div style="text-align: center;"><img src="https://hackmd.io/_uploads/rJeRaPBClg.png" style="border: 2px solid black;"alt="The home page of the Blacksburg Transit website showing the menu that appears when you hover over the "Routes and Schedules" button on the maroon menu bar."></div>
  
- #### Step 3: Choose your bus route
+#### Step 3: Choose your bus route
  
  Select which bus route you're interested in from the list of routes.
 
  <div style="text-align: center;"><img src="https://hackmd.io/_uploads/H19bRwH0el.png" style="border: 2px solid black;"alt="The "Routes and Schedules" page on the Blacksburg Transit website."></div>
 
 
- #### Step 4: View the schedule
+#### Step 4: View the schedule
  See the estimated times for each stop on the route for the next six trips, as well as a map showing the route. 
  
  
   <div style="text-align: center;"><img src="https://hackmd.io/_uploads/ryXwRvB0gx.png" style="border: 2px solid black;"alt="The BMR bus route schedule on the Blacksburg Transit website."></div>
 
- ### To see a routes full schedule:
+### To see a routes full schedule:
  
- #### Step 1: Go to the main "Routes and Schedules" page
+#### Step 1: Go to the main "Routes and Schedules" page
 See **Routes and Schedules** instructions above.
- #### Step 2: Click "Downloadable Schedules"
+#### Step 2: Click "Downloadable Schedules"
  The link to this page is located in the blue box under the heading.
  
  <div style="text-align: center;"><img src="https://hackmd.io/_uploads/SknFyzu0xg.png" style="border: 2px solid black;"alt="The Routes and Schedules page on the Blacksburg Transit website with a red arrow pointing to the Download Schedules link."></div>
  
- #### Step 3: Select your route
+#### Step 3: Select your route
   Click on the name of the bus route whose schedule you want to view.
   
  
@@ -256,7 +256,7 @@ See **Routes and Schedules** instructions above.
   
 
 
- ### Additional Information Available on Website
+### Additional Information Available on Website
    
 
 ---
@@ -264,14 +264,14 @@ See **Routes and Schedules** instructions above.
 
 
   
-  #### BT Access 
+#### BT Access 
  
 BT Access provides convenient door-to-door transportation that complements Blacksburg’s fixed-route bus service. This service is available to individuals with temporary or permanent disabilities who meet eligibility requirements under the Americans with Disabilities Act (ADA). To ride BT Access, passengers must first be certified. Applications are available for download, or can be mailed upon request by calling (540) 443-1533. 
 
 To see eligibility, visit the [BT Access webpage](https://www.ridebt.org/bt-access/overview) or email BTAccess@blacksburg.gov
 
 
-  #### Alerts
+#### Alerts
 
 The Blacksburg Transit website homepage will from time to time highlight alerts about route changes, technical problems, or stop closures. Alerts are shown on website and on app in a black, collapsible box at the top of the page which you can click to see details. 
 >[!NOTE]
@@ -281,7 +281,7 @@ The Blacksburg Transit website homepage will from time to time highlight alerts 
 
 
 
-  #### Service Calendar
+#### Service Calendar
   The service calendar shows what level of service is available on a specific day. Simply look for the date you need to ride to see service levels (Full Service, Intermediate Service, Events). To see the hours of service on a particular day, click the service level on the date on the calendar.
   
   
