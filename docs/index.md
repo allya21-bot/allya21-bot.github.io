@@ -21,14 +21,14 @@ Getting around campus and the surrounding community can be confusing with the Bl
 Open the app. You will see this page upon opening:
 
 
- <img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/idkwhat.png?raw=true" alt="bus">
+ <img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/idkwhat.png?raw=true" alt="bus" width="500" height="1200">
 
 
 
  On the "Map" page, click the person icon on the bottom right of the screen, as shown below. 
 
 
-<img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_e10c9254998400977f376ddc25cf6238.jpg?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765316957&Signature=aJR7%2BEJu3beOn7k7pH%2Bzf9%2BZKgE%3D" alt="bus" width="500" height="1200">
+ <img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/littleperson.jpg?raw=true" alt="guy" width="500" height="1200">
 
 Pressing the person icon will show red dots on the map as shown above, these red dots are the stops nearest to your location. 
 
