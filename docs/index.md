@@ -10,7 +10,7 @@
 ### Overview
 Getting around campus and the surrounding community can be confusing with the Blacksburg Transit Bus System. That's why our guide, designed with students in mind, offers a convenient, reliable, and step-by-step way to travel between residence halls, classrooms, and key off-campus destinations. In our guide, we will cover how to plan a trip, how to see routes, and additional details found on the website. 
 
- <img src="https://https://github.com/allya21-bot/allya21-bot.github.io/blob/main/idkwhat.png?raw=true" alt="bus">
+ <img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/idkwat.png?raw=true" alt="bus">
 
 
 ## Using the App
@@ -21,7 +21,7 @@ Getting around campus and the surrounding community can be confusing with the Bl
 Open the app. You will see this page upon opening:
 
 
- <img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_7472cf84bd6d8594f6a8a5b2661d75a3.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765315373&Signature=hnzB6s2kpbn2OSvNGjO%2FxRCPuII%3D" alt="bus" width="500" height="1200">
+ <img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/idkwhat.png?raw=true" alt="bus">
 
 
 
