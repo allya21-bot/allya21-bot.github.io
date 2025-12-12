@@ -284,8 +284,7 @@ The Blacksburg Transit website homepage will from time to time highlight alerts 
   The service calendar shows what level of service is available on a specific day. Simply look for the date you need to ride to see service levels (Full Service, Intermediate Service, Events). To see the hours of service on a particular day, click the service level on the date on the calendar.
   
   
-  <div style="text-align: center;"><img src="https://hackmd.io/_uploads/H1bx5sCAll.png" style="border: 2px solid black;"alt="The Blacksburg Transit October 2025 service calendar."></div>
-  
+  <img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/site/img/websiteservicecalendar.png" alt="The Blacksburg Transit October 2025 service calendar.">
   ---
   
   We hope this guide has helped you feel more confident about using the Blacksburg Transit system, whether you’re catching your first ride to class or exploring new parts of Blacksburg. Remember to check route updates regularly and take advantage of any mobile apps or online tools available to plan your trips efficiently.
