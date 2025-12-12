@@ -134,6 +134,9 @@ A list of stop names with the estimated time of arrival will appear, along with 
 
 If the time is too early or too late, press the gray dots arranged in a horizontal line just below the map. Each dot will take you to a new list of times for each stop.  
 
+<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/SMAbus.jpeg?raw=true" alt="SMA bus" width="500" height="1200">
+
+
 >[!NOTE]
 The image below shows an example of the SMS bus route. Not all routes look like the image below.  
 
