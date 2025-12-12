@@ -151,7 +151,7 @@ Use two fingers on the map and slide them outward to zoom into the map. Find the
 >[!NOTE]
 The image below shows an example of the PRG bus route. Not all routes look like the image below.  
 
-<div style="text-align: center;"><img  src="https://hackmd.io/_uploads/ByTeij00eg.jpg"style="border: 2px solid black;" alt=[Example of PRG bus route on map] width=400></div>
+<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/PRGbusss.jpeg?raw=true" alt="PRG bus" width="500" height="1200">
 
 ## Using the Website
 
