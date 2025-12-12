@@ -173,35 +173,32 @@ The [Blacksburg Transit website](https://ridebt.org/) provides users with inform
   
 
 
-<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/site/img/websiteplantrip.png" alt="The home page of the Blacksburg Transit website with a red arrow pointing to the Plan a Trip button on the maroon menu bar.">
+<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/websiteplantrip.png?raw=true" alt="The home page of the Blacksburg Transit website with a red arrow pointing to the Plan a Trip button on the maroon menu bar.">
 
   
 #### Step 2: Select your starting location
   Type your starting location in the **From text box** (green arrow in the picture below) and select a bus stop from the list that appears, or select your current location by clicking the **current location** button (red arrow in the picture below). 
   
-  <img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/site/img/websitestartloc.png" alt="The trip planner page on the Blacksburg transit website with a green arrow pointing to the starting location text box and a red arrow pointing to the button to select current location.">
+  <img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/websitestartloc.png?raw=true" alt="The trip planner page on the Blacksburg transit website with a green arrow pointing to the starting location text box and a red arrow pointing to the button to select current location.">
 
 >[!NOTE]
 >You may want to look at the map on the home page to find the names of bus stops near you / near your end location. Stops appear as blue bus icons (example shown below). Some stops are labeled with their names which you can then type into the start/end location text boxes in the Trip Planner.
 
 
-<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/site/img/cassellstop.png" alt="An example of a bus stop on the Blacksburg Transit interactive map.">
+<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/cassellstop.png?raw=true" alt="An example of a bus stop on the Blacksburg Transit interactive map.">
 
 #### Step 3: Select your end location
 Type your end location in the **To text box** (green arrow) and select a bus stop from the list that appears, or select your current location by clicking the **current location** button (red arrow in the picture below).
 
-<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/site/img/websiteendloc.png" alt="The trip planner page on the Blacksburg Transit website with a green arrow pointing to the end location text box and a red arrow pointing to the button to select current location.">
+<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/websiteendloc.png?raw=true" alt="The trip planner page on the Blacksburg Transit website with a green arrow pointing to the end location text box and a red arrow pointing to the button to select current location.">
 
 #### Step 4: Find your trip!
 Select the **Find Trips** button and choose the route best for you!
 
 
-<div style="text-align: center;"><img src="https://hackmd.io/_uploads/BkPGF9H6ee.png" style="border: 2px solid black;"alt="The trip planner page on the Blacksburg Transit website with a red arrow pointing to the "Find Trips" button."></div>
-
+<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/websitefindtrip.png?raw=true" alt="The trip planner page on the Blacksburg Transit website with a red arrow pointing to the Find Trips button.">
  
-
-<div style="text-align: center;"><img src="https://hackmd.io/_uploads/SJqyhvSCxg.png" style="border: 2px solid black;"alt="The trip planner page on the Blacksburg Transit website showing an example of suggested routes."></div>
-
+<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/websitetripsolutions.png?raw=true" alt="The trip planner page on the Blacksburg Transit website showing an example of suggested routes.">
 
  
  
@@ -216,28 +213,26 @@ Select the **Find Trips** button and choose the route best for you!
   The button is located on the maroon bar on the home page of the BT website (see red arrow in the picture below).
   
 
- <div style="text-align: center;"><img src="https://hackmd.io/_uploads/B1TQaPrRxg.png" style="border: 2px solid black;"alt="The home page of the Blacksburg Transit website with a red arrow pointing to the "Routes and Schedules" button on the maroon menu bar."></div>
-
+<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/websiteroutesandschedules.png?raw=true" alt="The home page of the Blacksburg Transit website with a red arrow pointing to the Routes and Schedules button on the maroon menu bar.">
  
 #### Step 2: Select which routes and schedules you want
  Hover your cursor over the **Routes and Schedules** button and choose your area of interest from the menu that appears.
  
  
- 
-  <div style="text-align: center;"><img src="https://hackmd.io/_uploads/rJeRaPBClg.png" style="border: 2px solid black;"alt="The home page of the Blacksburg Transit website showing the menu that appears when you hover over the "Routes and Schedules" button on the maroon menu bar."></div>
+  <img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/websiteroutesandschedulesdropdown.png?raw=true" alt="The home page of the Blacksburg Transit website showing the menu that appears when you hover over the Routes and Schedules button on the maroon menu bar.">
  
 #### Step 3: Choose your bus route
  
  Select which bus route you're interested in from the list of routes.
 
- <div style="text-align: center;"><img src="https://hackmd.io/_uploads/H19bRwH0el.png" style="border: 2px solid black;"alt="The "Routes and Schedules" page on the Blacksburg Transit website."></div>
 
+<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/websiteroutesandschedulespage.png?raw=true" alt="The Routes and Schedules page on the Blacksburg Transit website.">
 
 #### Step 4: View the schedule
  See the estimated times for each stop on the route for the next six trips, as well as a map showing the route. 
  
- 
-  <div style="text-align: center;"><img src="https://hackmd.io/_uploads/ryXwRvB0gx.png" style="border: 2px solid black;"alt="The BMR bus route schedule on the Blacksburg Transit website."></div>
+
+<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/websiterouteexample.png?raw=true" alt="The BMR bus route schedule on the Blacksburg Transit website.">
 
 ### To see a routes full schedule:
  
@@ -246,14 +241,14 @@ See **Routes and Schedules** instructions above.
 #### Step 2: Click "Downloadable Schedules"
  The link to this page is located in the blue box under the heading.
  
- <div style="text-align: center;"><img src="https://hackmd.io/_uploads/SknFyzu0xg.png" style="border: 2px solid black;"alt="The Routes and Schedules page on the Blacksburg Transit website with a red arrow pointing to the Download Schedules link."></div>
+ <img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/websiteroutesandschedulesdownloadable.png?raw=true" alt="The Routes and Schedules page on the Blacksburg Transit website with a red arrow pointing to the Download Schedules link.">
  
 #### Step 3: Select your route
   Click on the name of the bus route whose schedule you want to view.
   
  
 <div style="text-align: center;"><img src="https://hackmd.io/_uploads/HJ9MgfORle.png" style="border: 2px solid black;"alt="The Blacksburg Transit October 2025 service calendar."></div>
-  
+<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/websitedownloadablepage.png?raw=true" alt="The downloadable schedules page listing routes.">
 
 
 ### Additional Information Available on Website
