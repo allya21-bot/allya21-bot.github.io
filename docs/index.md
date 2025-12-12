@@ -41,7 +41,7 @@ Pressing the red dots will show the stop number and how many feet the stop is fr
 ### Plan a Trip
 ---
 
-<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/site/img/upload_a22d9c2980977678ab72153ee80121d4.jpg?raw=true" alt="plan a trip" width="500" height="1200"> 
+<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/planatrip.jpg?raw=true" alt="plan a trip" width="500" height="1200"> 
 
  
 #### Step 1: Find a stop near you
