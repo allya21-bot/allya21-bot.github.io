@@ -119,7 +119,7 @@ Only use this instruction set if you know which bus you want to use. If you do n
 #### Step 1: Locate the "Routes" icon
 In the maroon bar at the bottom of the screen, locate and press the sign with an arrow icon labeled **Routes**.
 
-<img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_c911d3354120c81594bd0f0c7775efe2.PNG?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1765316694&Signature=asqm6AyMOO8u7ojtBQD1ZuKE2S0%3D" alt="routes and schedules">
+<img src="https://github.com/allya21-bot/allya21-bot.github.io/blob/main/routesandschedules.png?raw=true" alt="routes and schedules" width="500" height="1200">
 
 
 ---
